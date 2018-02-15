@@ -1,0 +1,12 @@
+c:\users\uros veseli\source\repos\WindowsApp7\WindowsApp7\bin\Debug\WindowsApp7.exe.config
+c:\users\uros veseli\source\repos\WindowsApp7\WindowsApp7\bin\Debug\WindowsApp7.exe
+c:\users\uros veseli\source\repos\WindowsApp7\WindowsApp7\bin\Debug\WindowsApp7.pdb
+c:\users\uros veseli\source\repos\WindowsApp7\WindowsApp7\bin\Debug\WindowsApp7.xml
+c:\users\uros veseli\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.vbprojResolveAssemblyReference.cache
+c:\users\uros veseli\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.Form1.resources
+c:\users\uros veseli\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.Resources.resources
+c:\users\uros veseli\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.vbproj.GenerateResource.Cache
+c:\users\uros veseli\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.vbproj.CoreCompileInputs.cache
+c:\users\uros veseli\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.exe
+c:\users\uros veseli\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.xml
+c:\users\uros veseli\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.pdb

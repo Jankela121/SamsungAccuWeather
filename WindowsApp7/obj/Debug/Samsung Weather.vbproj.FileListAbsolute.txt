@@ -1,0 +1,16 @@
+C:\Users\Uros Veseli\source\repos\WindowsApp7\WindowsApp7\bin\Debug\WindowsApp7.exe.config
+C:\Users\Uros Veseli\source\repos\WindowsApp7\WindowsApp7\bin\Debug\WindowsApp7.exe
+C:\Users\Uros Veseli\source\repos\WindowsApp7\WindowsApp7\bin\Debug\WindowsApp7.pdb
+C:\Users\Uros Veseli\source\repos\WindowsApp7\WindowsApp7\bin\Debug\WindowsApp7.xml
+C:\Users\Uros Veseli\source\repos\WindowsApp7\WindowsApp7\obj\Debug\Samsung Weather.vbprojResolveAssemblyReference.cache
+C:\Users\Uros Veseli\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.Form1.resources
+C:\Users\Uros Veseli\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.Resources.resources
+C:\Users\Uros Veseli\source\repos\WindowsApp7\WindowsApp7\obj\Debug\Samsung Weather.vbproj.GenerateResource.Cache
+C:\Users\Uros Veseli\source\repos\WindowsApp7\WindowsApp7\obj\Debug\Samsung Weather.vbproj.CoreCompileInputs.cache
+C:\Users\Uros Veseli\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.exe
+C:\Users\Uros Veseli\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.xml
+C:\Users\Uros Veseli\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.pdb
+C:\Users\Uros Veseli\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.Form2.resources
+C:\Users\Uros Veseli\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.About.resources
+C:\Users\Uros Veseli\source\repos\WindowsApp7\WindowsApp7\bin\Debug\CsQuery.dll
+C:\Users\Uros Veseli\source\repos\WindowsApp7\WindowsApp7\bin\Debug\CsQuery.xml
